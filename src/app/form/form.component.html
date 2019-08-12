@@ -1,0 +1,7 @@
+<form [formGroup]="form">
+    <app-address-sub-form formControlName="address"></app-address-sub-form>
+</form>
+
+<div>
+    {{form.value | json}}
+</div>

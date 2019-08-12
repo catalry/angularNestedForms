@@ -1,2 +1,2 @@
-# angularNestedForms
-Show case for angular nested forms
+# NestedForms
+This project is a show case for Nested forms as presented by Kara Erickson.
